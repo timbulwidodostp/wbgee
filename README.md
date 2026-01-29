@@ -1,6 +1,8 @@
 # wbgee
 Panel regression models fit with GEE (Generalized Estimating Equations) Use wbgee (panelr) With (In) R Software
 
+https://www.youtube.com/watch?v=pmyCDNENg7c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
